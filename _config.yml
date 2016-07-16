@@ -1,0 +1,28 @@
+name: RechardFrancois
+favicon: null
+layout_spectrum: 0.35060231015086174
+typography_spectrum: 0.35410605533979833
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.43758995295502245
+  lightness: 0.5979987441096455
+  saturation: 0.9151209308765829
+  rhythmicContrast: 0.6943967535626143
+purpose: []
